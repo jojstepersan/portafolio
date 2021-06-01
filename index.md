@@ -1,35 +1,30 @@
-## Bienvenido a mi portafolio de NLP
+## Hola soy Stiven y Bienvenido a mi portafolio de NLP
 
 En este portafolio podran encontrar mi trabajo durante el curso de NLP.
 
-### Markdown
+### Taller 1
+Github (https://github.com/jojstepersan/NPL/tree/main/Taller%201)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Taller 2
+Adqusición de Textos (https://github.com/jojstepersan/NPL/blob/main/taller-2/taller2.ipynb)
 
-```markdown
-Syntax highlighted code block
+### Taller 3
+Extracción, pre-procesamiento y normalización de textos (https://github.com/jojstepersan/NPL/blob/main/Taller-3/taller3.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+### Taller 4
+Representación vectorial de textos parte 1 (https://github.com/jojstepersan/NPL/blob/main/taller%204/taller4.ipynb)
 
-- Bulleted
-- List
+### Taller 5
+Representación vectorial de textos Parte 2 (https://github.com/jojstepersan/NPL/blob/main/Taller5/taller5.ipynb)
 
-1. Numbered
-2. List
+### Taller 7
+Clasificación de Textos (https://github.com/jojstepersan/NPL/blob/main/Taller7/taller7.ipynb)
 
-**Bold** and _Italic_ and `Code` text
+### Taller 8
+Agrupación de Textos con K-Means (https://github.com/jojstepersan/NPL/blob/main/Taller8/taller8.ipynb)
 
-[Link](url) and ![Image](src)
-```
+### Taller 9
+Modelado de Temas (https://github.com/jojstepersan/NPL/blob/main/taller9/taller9.ipynb)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jojstepersan/portafolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Taller 10
+Visualizaciones para NLP (https://github.com/jojstepersan/NPL/blob/main/Taller%2010/Taller%2010.ipynb)
