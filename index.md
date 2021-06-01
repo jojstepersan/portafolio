@@ -3,7 +3,7 @@
 En este portafolio podran encontrar mi trabajo durante el curso de NLP.
 
 ### Taller 1
-Github (https://github.com/jojstepersan/NPL/tree/main/Taller%201)
+[Github](https://github.com/jojstepersan/NPL/tree/main/Taller%201)
 
 ### Taller 2
 Adqusición de Textos (https://github.com/jojstepersan/NPL/blob/main/taller-2/taller2.ipynb)
